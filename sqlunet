@@ -1,0 +1,31 @@
+sqlite	wn		WordNet				3.1		2011	Sourceforge	https://sourceforge.net/projects/sqlunet/files/wn31/2/			zipped
+mysql	wn		WordNet				3.1		2011	Sourceforge	https://sourceforge.net/projects/sqlunet/files/wn31/2/			zipped
+
+sqlite	oewn	OEWN				2022	2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/oewn2/2/			zipped
+sqlite	oewn	OEWN				2022	2022	Github		https://github.com/x-englishwordnet/sqlite						zipped
+mysql	oewn	OEWN				2022	2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/oewn2/2/			zipped
+mysql	oewn	OEWN				2022	2022	Github		https://github.com/x-englishwordnet/mysql						zipped
+
+sqlite	sn		SyntagNet			1.0		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+mysql	sn		SyntagNet			1.0		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+
+sqlite	vn		VerbNet				3.4		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+mysql	vn		VerbNet				3.4		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+
+sqlite	pb		PropBank			3.1		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+mysql	pb		Propbank			3.1		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+
+sqlite	sl		SemLink				1.2.2c	2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+mysql	sl		SemLink				1.2.2c	2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+
+sqlite	fn		FrameNet			1.7		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+mysql	fn		FrameNet			1.7		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+
+sqlite	pm		PredicateMatrix		1.3		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+mysql	pm		PredicateMatrix		1.3		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+
+sqlite	su		SUMO				202209	2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+mysql	su		SUMO				202209	2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+
+sqlite	bnc		BNC					2001	2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
+mysql	bnc		BNC					2001	2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
