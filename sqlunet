@@ -1,10 +1,10 @@
 sqlite	wn		WordNet				3.1		2011	Sourceforge	https://sourceforge.net/projects/sqlunet/files/wn31/2/			zipped
 mysql	wn		WordNet				3.1		2011	Sourceforge	https://sourceforge.net/projects/sqlunet/files/wn31/2/			zipped
 
-sqlite	oewn	OEWN				2022	2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/oewn2/2/			zipped
-sqlite	oewn	OEWN				2022	2022	Github		https://github.com/x-englishwordnet/sqlite						zipped
-mysql	oewn	OEWN				2022	2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/oewn2/2/			zipped
-mysql	oewn	OEWN				2022	2022	Github		https://github.com/x-englishwordnet/mysql						zipped
+sqlite	oewn	OEWN				2024	2024	Sourceforge	https://sourceforge.net/projects/sqlunet/files/oewn2/2/			zipped
+sqlite	oewn	OEWN				2024	2024	Github		https://github.com/x-englishwordnet/sqlite						zipped
+mysql	oewn	OEWN				2024	2024	Sourceforge	https://sourceforge.net/projects/sqlunet/files/oewn2/2/			zipped
+mysql	oewn	OEWN				2024	2024	Github		https://github.com/x-englishwordnet/mysql						zipped
 
 sqlite	sn		SyntagNet			1.0		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
 mysql	sn		SyntagNet			1.0		2022	Sourceforge	https://sourceforge.net/projects/sqlunet/files/sqlunet2/2/		zipped
